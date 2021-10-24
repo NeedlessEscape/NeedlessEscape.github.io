@@ -2478,10 +2478,6 @@ input::-moz-focus-inner {
   color: #ffffff;
 }
 
-.s-services a {
-  color: ##FFD52C;
-}
-
 .s-services a:hover,
 .s-services a:focus,
 .s-services a:active {
