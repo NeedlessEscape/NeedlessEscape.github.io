@@ -288,7 +288,7 @@ pre {
 
 pre {
   padding: 2.4rem 3.2rem 3.2rem;
-  background: #2c2c2c;
+  background: #050505;
   overflow-x: auto;
 }
 
@@ -297,8 +297,8 @@ code {
   margin: 0 .2rem;
   padding: .4rem .8rem;
   white-space: nowrap;
-  background: #e0e0e0;
-  border: 1px solid #c3c3c3;
+  background: #101010;
+  border: 1px solid #101010;
   color: #000000;
   border-radius: 3px;
 }
