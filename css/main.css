@@ -1999,11 +1999,11 @@ input::-moz-focus-inner {
   }
 
   .intro-text h3 {
-    font-size: 2rem;
+    font-size: 7rem;
   }
 
   .intro-text h1 {
-    font-size: 7rem;
+    font-size: 5rem;
   }
 
 }
