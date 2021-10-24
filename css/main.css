@@ -1923,16 +1923,6 @@ input::-moz-focus-inner {
   position: relative;
 }
 
-.intro-grid {
-  background-image: url(../images/pattern-dot-grid.svg);
-  background-size: 24px 24px;
-  opacity: .15;
-  position: absolute;
-  top: 30%;
-  right: 0;
-  bottom: 0;
-  left: 30%;
-}
 
 .intro-text {
   -webkit-transform: translate3d(0, -3.6rem, 0);
@@ -2046,11 +2036,6 @@ input::-moz-focus-inner {
     padding-top: 8rem;
   }
 
-  .intro-grid {
-    top: 20%;
-    opacity: .1;
-  }
-
   .intro-text h3 {
     font-size: 1.8rem;
   }
@@ -2066,10 +2051,6 @@ input::-moz-focus-inner {
     font-size: 5rem;
   }
 
-  .intro-grid {
-    left: 15%;
-  }
-
 }
 
 @media screen and (max-width:600px) {
@@ -2079,10 +2060,6 @@ input::-moz-focus-inner {
 
   .intro-content {
     width: auto;
-  }
-
-  .intro-grid {
-    left: 10%;
   }
 
   .intro-text {
