@@ -3455,7 +3455,7 @@ footer {
 
 footer a,
 footer a:visited {
-  color: #ffffff;
+  color: #ce365c;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3475,7 +3475,7 @@ footer a:visited {
   content: "|";
   display: inline-block;
   padding: 0 1rem 0 1.2rem;
-  color: rgb(255, 0, 221);
+  color: #FFD52C;
 }
 
 .ss-copyright span:last-child::after {
@@ -3515,7 +3515,7 @@ footer a:visited {
 
 .ss-go-top a:hover,
 .ss-go-top a:focus {
-  background-color: ##FFD52C;
+  background-color: #FFD52C;
   color: #ffffff;
 }
 
