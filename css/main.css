@@ -2089,7 +2089,7 @@ input::-moz-focus-inner {
 
 }
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:500px) {
   .intro-text h1 {
     font-size: 4.2rem;
   }
