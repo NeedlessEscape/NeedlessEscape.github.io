@@ -3454,7 +3454,7 @@ footer a:visited {
 .ss-go-top::before {
   content: "";
   display: block;
-  width: 1px;
+  width: 50px;
   height: 100px;
   background-color: rgba(255, 255, 255, 0.05);
   position: absolute;
