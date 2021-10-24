@@ -2691,8 +2691,8 @@ input::-moz-focus-inner {
 
 .cta-content .btn:hover,
 .cta-content .btn:focus {
-  background-color: #ffffff;
-  border: 0.2rem solid #ffffff;
+  background-color: #ff002b;
+  border: 0.2rem solid #ff0000;
   color: #000000;
 }
 
