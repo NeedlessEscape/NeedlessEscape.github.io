@@ -2189,6 +2189,7 @@ input::-moz-focus-inner {
   -moz-columns: 2 360px;
   columns: 2 360px;
   column-gap: 64px;
+  background-color: #ffffff;
 }
 
 .about-me__buttons {
