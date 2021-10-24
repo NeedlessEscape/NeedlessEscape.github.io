@@ -3502,7 +3502,7 @@ footer a:visited {
   width: 60px;
   line-height: 60px;
   text-align: center;
-  color: white;
+  color: rgb(150, 150, 150);
   text-transform: uppercase;
   transition: all .3s;
   background-repeat: no-repeat;
