@@ -1,0 +1,40 @@
+.placeholder {
+/* Home */
+
+
+position: relative;
+visibility: hidden;
+width: 1920px;
+height: 980px;
+overflow-y: scroll;
+
+background: linear-gradient(180deg, #101010 0%, #0A0A0A 46.46%, #191919 92.92%);
+
+
+/* TopBar */
+
+
+position: relative;
+width: 1920px;
+height: 100px;
+
+
+
+/* Projects */
+
+
+position: relative;
+width: 1920px;
+height: 980px;
+overflow-y: scroll;
+
+background: #121212;
+
+
+/* BottomBar */
+
+
+position: relative;
+width: 1920px;
+height: 50px;
+}
