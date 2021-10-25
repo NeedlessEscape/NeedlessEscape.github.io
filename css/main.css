@@ -3288,7 +3288,7 @@ input::-moz-focus-inner {
 }
 
 .contact-social ul li:first-child::before {
-  display: none;
+  display: block;
 }
 
 /* ------------------------------------------------------------------- 
