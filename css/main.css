@@ -3287,10 +3287,6 @@ input::-moz-focus-inner {
   margin-right: 4px;
 }
 
-.contact-social ul li:first-child::before {
-  display: block;
-}
-
 /* ------------------------------------------------------------------- 
 * responsive:
 * contact
