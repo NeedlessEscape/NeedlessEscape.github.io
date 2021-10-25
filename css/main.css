@@ -3283,12 +3283,12 @@ input::-moz-focus-inner {
 .contact-social ul li::before {
   content: "/";
   color: #ffffff;
-  margin-left: 4px;
-  margin-right: 4px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contact-social ul li:first-child::before {
-  display: none;
+  display: block;
 }
 
 /* ------------------------------------------------------------------- 
