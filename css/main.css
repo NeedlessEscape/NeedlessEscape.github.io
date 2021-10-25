@@ -3248,8 +3248,6 @@ input::-moz-focus-inner {
   font-weight: 400;
   font-size: 2.4rem;
   line-height: 1.333;
-  margin-left: auto;
-  margin-right: auto;
   margin-top: 0;
   margin-bottom: .8rem;
   color: rgba(255, 255, 255, 0.35);
@@ -3283,12 +3281,12 @@ input::-moz-focus-inner {
 .contact-social ul li::before {
   content: "/";
   color: #ffffff;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 4px;
+  margin-right: 4px;
 }
 
 .contact-social ul li:first-child::before {
-  display: block;
+  display: none;
 }
 
 /* ------------------------------------------------------------------- 
